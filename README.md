@@ -1,5 +1,9 @@
 # Data_Science-ML_App
-These scripts are designed to analyze SAXS data gathered on spherical miscelles with a Gaussian and Log-Normal size distribution. Cylindrical micelles are considered, as well. Distribution, scattering amplitude, and scattering intensity equations are used to provide a line of best fit that allows for greater investigation of micelle characteristics.
+These scripts are designed to analyze SAXS data gathered on spherical miscelles with a Gaussian and Log-Normal size distribution. Cylindrical micelles are considered, as well. Distribution, scattering amplitude, and scattering intensity equations are used to provide a line of best fit that allows for greater investigation of micelle characteristics.\
+
+Curve Fitting:
+![Screenshot 2022-02-02 171257](https://user-images.githubusercontent.com/75232089/152246291-3633807a-4678-4872-bf80-3c1c50031da4.png)
+
 
 Illustration of micelles (Sample) (Not my content): 
 
