@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jan 31 16:54:34 2022
 
-@author: BSO8
 """
 
 import math
