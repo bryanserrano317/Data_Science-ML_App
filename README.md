@@ -5,6 +5,10 @@ Implemented segmented regression analysis through scikit-learn to curve fit real
 
 Curve Fitting (Each color represents a seperate analysis):
 
+Reference: 
+https://statisticsbyjim.com/regression/curve-fitting-linear-nonlinear-regression/
+https://scikit-learn.org/stable/auto_examples/svm/plot_svm_regression.html
+
 ![Screenshot 2022-02-02 171257](https://user-images.githubusercontent.com/75232089/152246291-3633807a-4678-4872-bf80-3c1c50031da4.png)
 
 
