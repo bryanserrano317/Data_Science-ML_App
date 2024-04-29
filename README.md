@@ -11,14 +11,3 @@ Reference:
 
 ![Screenshot 2022-02-02 171257](https://user-images.githubusercontent.com/75232089/152246291-3633807a-4678-4872-bf80-3c1c50031da4.png)
 
-
-Illustration of micelles (Sample) (Not my content): 
-
-![Schematic-representation-of-spherical-and-cylindrical-micelles-21](https://user-images.githubusercontent.com/75232089/150587711-cb972e08-a31e-4ac0-a193-18c748a2a6c3.png)
-
-Modeling Processes (Sample) (Not my content):
-
-![1-s2 0-S2589004220300900-fx1](https://user-images.githubusercontent.com/75232089/150587727-d2712d17-ba3e-4a4b-a5f9-8a4ab10927c2.jpg)
-
-![978-3-642-16712-6_20_Part_Fig1-293_HTML](https://user-images.githubusercontent.com/75232089/150587736-23f173fc-c2f4-45e2-bf68-3ec0ab96af26.png)
-
